@@ -8,7 +8,7 @@
 - API [link](API)
 - Free web hosting from https://vn.000webhost.com/
 # Android (file .apk)
-- [APK](https://drive.google.com/file/d/1WM8WX2MuiNJ5dla6gF_9BLCxHpOqmyGD/view?usp=sharing)
+- [APK](release/best-sound-2021.apk)
 # Demo
 - [Demo](https://youtu.be/72bvRZppxw8)
 # Screenshots
